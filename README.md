@@ -12,3 +12,5 @@ Nexus Technologies Contribution
 Nexus Technologies designed and developed the complete WordPress website, delivering a responsive, SEO-optimized, and performance-focused solution that enhances the brand's online presence, improves user engagement, and provides a fast, scalable, and seamless browsing experience across all devices.
 
 https://www.seofusion.com/
+
+![SEO Fusion Preview](./seofusion.png)
